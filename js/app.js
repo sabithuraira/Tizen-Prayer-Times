@@ -23,7 +23,6 @@
 
 	function successCallback(position)
 	{
-		console.log(position);
 		var timeStamp = Math.floor(Date.now() / 1000);
 		var latitude= position.coords.latitude;
 		var longitude = position.coords.longitude;
@@ -32,7 +31,6 @@
 		
 		$.getJSON(url, function (result)
 		 {
-			console.log(result);
 			if(result.code==200){
 				$("#salat-title").html("For date: "+result.data.date.readable);
 
@@ -41,6 +39,9 @@
 				$("#time-asr").html(result.data.timings.Asr);
 				$("#time-maghrib").html(result.data.timings.Maghrib);
 				$("#time-isha").html(result.data.timings.Isha);
+
+				$("#time-sunset").html(result.data.timings.Sunset);
+				$("#time-sunrise").html(result.data.timings.Sunrise);
 			}
 			else{
 				$("#salat-title").html("Error, check your internet connection");
@@ -50,20 +51,42 @@
 				$("#time-asr").html("?");
 				$("#time-maghrib").html("?");
 				$("#time-isha").html("?");
+
+				$("#time-sunset").html("?");
+				$("#time-sunrise").html("?");
 			}
 		 });
 	}
 
 	function errorCallback(error)
 	{
-//		console.log(error);
-		$("#salat-title").html("Error, activate you GPS Location");
+		console.log(error);
+		var err_message="";
+	    switch (error.code) {
+	        case error.PERMISSION_DENIED:
+	            err_message = 'User denied Geolocation.';
+	            break;
+	        case error.POSITION_UNAVAILABLE:
+	            err_message = 'Location information is unavailable.';
+	            break;
+	        case error.TIMEOUT:
+	            err_message = 'The request to get location timed out.';
+	            break;
+	        case error.UNKNOWN_ERROR:
+	            err_message = 'An unknown error occurred.';
+	            break;
+	    }
+	    
+		$("#salat-title").html(err_message);
 
 		$("#time-fajr").html("?");
 		$("#time-dhuhr").html("?");
 		$("#time-asr").html("?");
 		$("#time-maghrib").html("?");
 		$("#time-isha").html("?");
+		
+		$("#time-sunset").html("?");
+		$("#time-sunrise").html("?");
 	}
 	
 	function getApi(){
@@ -79,4 +102,6 @@
 	}
 	
 	window.addEventListener('load', getApi);
+	
+	document.getElementById("back-btn").addEventListener("click", getApi);
 }());

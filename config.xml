@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://farifam.com/prayertimes" version="1.1.0" viewmodes="maximized">
-    <access origin="*"></access>
+    <access origin="*" subdomains="true"></access>
     <tizen:application id="QqsfbMCxY0.prayertimes" package="QqsfbMCxY0" required_version="2.4"/>
     <author href="http://www.farifam.com" email="sabitzhabit@gmail.com">Farifam</author>
     <content src="index.html"/>

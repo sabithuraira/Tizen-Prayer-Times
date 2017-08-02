@@ -1,6 +1,6 @@
 /* Header */
 .btn-icon-back::after {
-   -webkit-mask-image: url(./images/core_icon_back.png);
+   -webkit-mask-image: url(./images/00_button_refresh.png);
 }
 
 .my-check-button-style {

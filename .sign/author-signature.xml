@@ -12,123 +12,15 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>dzMrT/yTZhzZL0pVy/Ak81AiPZcZ82OFqviMzPBEQfw=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_add.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>z0ZEceoOYChZzNyHMSUOxBejMbO0ZL1uh1170qOUv8c=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_back.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>/KF6YqF08p3VIVwgTUZy9hteXAMzFr0kKjXv/z82vbQ=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_call.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Icy9MHxlvQRN/D8k3iYLyEspBa8O/fEb5DgvMxr86/Q=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_check.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Aphf5Wx4WFX312Pf84dxbeedKFx2gepDMFjUdjQtQ78=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_delete.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>R+ZvIAVmWPQd6G5PVd4KCb08wVD3QRjNhC0BWIZAxOY=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_expand_cancel.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>X5oCVD2lyZj6J1sjKiyXJM7r0KphIShxTWqtWqKd6vQ=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_expand_closed.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ZVPL6ZBsZ0APshanc84CoEPTVW5HOCXVf0kKg2GALEE=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_expand_opened.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>xY/1SaZAm51AXf2UxU00V1vOyuub9nNnLs2wns+RYAU=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_expand_send.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>K4lZY47nd+l63HIbg2Aab89TVbqgMDnReEX/F/4XkNQ=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_gear.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>GEWpOytwDG8uCKvgr9WgGUiYWxhajHAYuz/YA/NG8t8=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_grid.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>OHIGDRS/b7hG+DORxvzpyxc7TQexEFVQ5yLMEfiD1+I=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_home.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>FW+rb75RvXSgDEIFyJevosjAx4Vn8QGe9RqYOXZIeJg=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_info.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Jftbl+6t89T9FYWh+OuGza2nTVcSorHExhI9Q/HzhBs=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_left.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>4pISaru9+SqOQfCDfYP6J1LzIuNkw57ueqISEQ7EotU=</DigestValue>
+<DigestValue>9Ln/IEyzElelrBKF17BhT3Z6tdn4aV3rTixFk4ek+qs=</DigestValue>
 </Reference>
 <Reference URI="css%2Fimages%2F00_button_refresh.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>AMMGygow08tkCZDJCowWrTBcizYQENGAVU6Yv4cDwRs=</DigestValue>
 </Reference>
-<Reference URI="css%2Fimages%2F00_button_rename.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>vFM55wDLWX9qU3nFdMJnB4S2XyurVcr501QwvlMUnGU=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_right.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bSs9c+QW1Xsf1UDr5r/ta8OUjDaz7c0d7Mma34VtWLk=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_button_warning.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>pspbBgY2RdqgLpYhDOrQ5gExsdWsLcCxPskd0Hzht4E=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_core_button_icon_clear.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>IzxnKGmntKSvogW2bkTKLF4o0HyXGdLno1uVD+8c+Z0=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_icon_favorite_bg_72x72.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cgkGzWoZSbhmBozVW0CYVtg9hIWU55qm5HL7ClBTso0=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_icon_jump.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>RYwP+dAPyNW/WZVH2JKWVGGIc99S2J3hTrDG1d5WVIM=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_icon_jump_left.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>uozHyLOhGc5jpxak9rZlP94wm5wBXFgc8Z5n6pJTBfo=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2F00_icon_search.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>0hwvo8sfri1c1caCUyTu2gHbGKJWW+tGLdfs2iNraFo=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2Fcore_button_add.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>L7+6CGkxwnBax0IYOiNoR9I5RHX/8rwLSlGJD2pVMng=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2Fcore_button_cancel.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>lC0avM9z0GnKA1FfpXVx4taWEM4M84fLKH/65VmZuAY=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2Fcore_button_delete.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>BwhRDHG8eaZ2ZVUlTFC7HmvhkcLYxkFPozMJ205kizw=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2Fcore_button_reorder.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>aoYe5Tr9Keu9qljXUj4IyRv6B/LwlkM9yw5bwb9/AsE=</DigestValue>
-</Reference>
-<Reference URI="css%2Fimages%2Fcore_icon_back.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>O7ilwpc6uCcYDDXjJmyRkfIIfnfHGrZx3sWipM7Aj14=</DigestValue>
-</Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>7uZNc5dMH8EID341/RgnTnDzhDqA7l+EX+wuGpjMp2I=</DigestValue>
+<DigestValue>HGsXvUFi8iRkttOnnWVAo+8F2tDVuHUPMGhflXB8K9M=</DigestValue>
 </Reference>
 <Reference URI="icon-tizen.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -140,11 +32,11 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>o2o9hn+0Rre0w7FDl2EqnaXvb+heeWqqG3XA0rwkDMg=</DigestValue>
+<DigestValue>zv+j30Cjy3qLFg0Gr97anEb6hvjJTxIMZVNO6jdWeeE=</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bmDpzQ/izmGk3E7tDpVYy6SgUGm5eTxnDB3B8kv4ELk=</DigestValue>
+<DigestValue>WBal5hpc3et7d87r5cbyByhIU70iYMqcDWzrl+k27iQ=</DigestValue>
 </Reference>
 <Reference URI="js%2Fjquery.tmpl.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -923,9 +815,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Xo+jl7a8nA+yq1f/IFIxxecmL81a7Ox+8rTuPsXl7NL0MRufcZm1HKnGO38R4HhM5mhiPnX54X/E
-aIB/CvSKYmEYxenyu4L/pI7PnCDNtRuRE4JnNEmUCVj9XzZ7+GilsaOw9k4NoQ7lZ2dGZpV+YW6p
-oC/UpQUxUXgrMeTlFj4=
+OUgQqyK7Kg13MVQBTVNwNrT1ellUnaetEK5ygmIg9PpAxUt3JviU6cMBmmrlNULfj21+vuYRGPng
+PdhnYf2+FxwFXBRiJJxPLVXam6pwOY+sizvYp2wLjwiQS+UkuuXaD5aBY7QXNewy806EDAHjHDoJ
+zsXk8Ps1Bt/9n3UTixM=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
